@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JDPRHYKW
 
 [Document2]
-DocumentPath=proLAYOUT_V2.PcbDoc
+DocumentPath=proLAYOUT_V3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -201,7 +201,7 @@ OutputDefault22=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet Pro M201-M202 PCL 6
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
